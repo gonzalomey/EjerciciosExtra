@@ -1,0 +1,11 @@
+D:\VisualStudio\Clase_20\AccesoDatos_Test\bin\Debug\AccesoDatos_Test.exe.config
+D:\VisualStudio\Clase_20\AccesoDatos_Test\bin\Debug\AccesoDatos_Test.exe
+D:\VisualStudio\Clase_20\AccesoDatos_Test\bin\Debug\AccesoDatos_Test.pdb
+D:\VisualStudio\Clase_20\AccesoDatos_Test\bin\Debug\Entidades.dll
+D:\VisualStudio\Clase_20\AccesoDatos_Test\bin\Debug\Entidades.pdb
+D:\VisualStudio\Clase_20\AccesoDatos_Test\bin\Debug\Entidades.dll.config
+D:\VisualStudio\Clase_20\AccesoDatos_Test\obj\Debug\AccesoDatos_Test.csprojAssemblyReference.cache
+D:\VisualStudio\Clase_20\AccesoDatos_Test\obj\Debug\AccesoDatos_Test.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase_20\AccesoDatos_Test\obj\Debug\AccesoDatos_Test.csproj.CopyComplete
+D:\VisualStudio\Clase_20\AccesoDatos_Test\obj\Debug\AccesoDatos_Test.exe
+D:\VisualStudio\Clase_20\AccesoDatos_Test\obj\Debug\AccesoDatos_Test.pdb
